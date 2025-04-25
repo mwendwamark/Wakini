@@ -49,7 +49,7 @@ const GiftForLucy = () => {
   
   const messages = [
     "Dear Lucy Wakiini,",
-    "You bring light to my day. You’ve got this way about you that’s hard to ignore.",
+    " You’ve got smth about you that’s hard to ignore.",
     "Your smile is contagious",
     "I make time for things that matter—and right now, you’re one of them.",
     "Sorry for keeping you awake till now btw ",
