@@ -121,7 +121,7 @@ const GiftForLucy = () => {
             {showMessage ? (
               // Final message
               <div className="flex flex-col items-center justify-center h-full space-y-6 text-center">
-                <h1 className="text-3xl font-bold text-rose-600">Lucy Wakini</h1>
+                <h1 className="text-3xl font-bold text-rose-600">Lucy Wakiini</h1>
                 <p className="text-gray-700 leading-relaxed">
                   This is just a small token to show you how special you are.
                 </p>
